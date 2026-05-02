@@ -4,9 +4,9 @@ A high-performance, cinematic UI clone of the official Grand Theft Auto VI websi
 
 ### 🎥 Preview
 
-[**🟢 Live Demo on Vercel**](#) 
+[**🟢 Live Demo on Vercel**](https://gta-vi-react-landing.vercel.app/) 
 
-![GTA VI UI Preview](/)
+<!--![GTA VI UI Preview](/) -->
 
 ### 🚀 Tech Stack
 
